@@ -1,4 +1,5 @@
 import "./App.css";
+import "bulma/css/bulma.min.css";
 import Card from "./component/card";
 
 function App() {
